@@ -21,5 +21,15 @@
   },
   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
   "web_accessible_resources": ["img/icon.png"],
-  "permissions": ["tabs", "http://*/*", "https://*/*"]
+  "permissions": ["tabs", "http://*/*", "https://*/*"],
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+M",
+        "mac": "Command+Shift+M",
+        "chromeos": "Ctrl+Shift+M",
+        "linux": "Ctrl+Shift+M"
+      }
+    }
+  }
 }
