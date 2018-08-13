@@ -7,7 +7,7 @@
 
 ## Install
 
-Use this [USD to TRY Currency Converter](https://chrome.google.com/webstore/category/extensions).
+Use this [USD to TRY Currency Converter](https://chrome.google.com/webstore/detail/nkhhnnnilgafjfgalkdcdejkhcodghig/publish-accepted?hl=tr&gl=TR).
 
 ## Development
 Fallow this steps [Google Documentation](https://developer.chrome.com/extensions/getstarted).
