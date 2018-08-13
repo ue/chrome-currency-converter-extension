@@ -15,7 +15,7 @@ Fallow this steps [Google Documentation](https://developer.chrome.com/extensions
 
 ## Usage
 
-You should select currency with USD symbol then just click the extension icon thats it!
+You should select currency with USD symbol then just click the extension icon or use the default keyboard shortcut of Ctrl/CMD-Shift-M to activate extension, thats it!
 
 ## For questions
 
