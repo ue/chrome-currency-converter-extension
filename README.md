@@ -7,7 +7,11 @@
 
 ## Install
 
-Click to extension tab and search `Alphabetical Sorter` and install it reload your editor. Or use this [USD to TRY Currency Converter](https://chrome.google.com/webstore/category/extensions).
+Use this [USD to TRY Currency Converter](https://chrome.google.com/webstore/category/extensions).
+
+## Development
+Fallow this steps [Google Documentation](https://developer.chrome.com/extensions/getstarted).
+
 
 ## Usage
 
